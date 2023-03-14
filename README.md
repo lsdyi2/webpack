@@ -3,34 +3,6 @@
     <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
   </a>
   <br>
-  <br>
-
-[![npm][npm]][npm-url]
-
-[![node][node]][node-url]
-[![builds2][builds2]][builds2-url]
-[![coverage][cover]][cover-url]
-[![licenses][licenses]][licenses-url]
-[![PR's welcome][prs]][prs-url]
-
-  <br>
-  <a href="https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates#about-compatibility-scores">
-    <img src="https://api.dependabot.com/badges/compatibility_score?dependency-name=webpack&package-manager=npm_and_yarn&previous-version=5.72.1&new-version=5.73.0">
-  </a>
-	<a href="https://npmcharts.com/compare/webpack?minimal=true">
-		<img src="https://img.shields.io/npm/dm/webpack.svg">
-	</a>
-	<a href="https://packagephobia.com/result?p=webpack">
-		<img src="https://packagephobia.com/badge?p=webpack" alt="install size">
-	</a>
-	<a href="https://opencollective.com/webpack#backer">
-		<img src="https://opencollective.com/webpack/backers/badge.svg">
-	</a>
-	<a href="https://opencollective.com/webpack#sponsors">
-		<img src="https://opencollective.com/webpack/sponsors/badge.svg">
-	</a>
-	<a href="https://github.com/webpack/webpack/graphs/contributors">
-		<img src="https://img.shields.io/github/contributors/webpack/webpack.svg">
 	</a>
 	<a href="https://gitter.im/webpack/webpack">
 		<img src="https://badges.gitter.im/webpack/webpack.svg">
